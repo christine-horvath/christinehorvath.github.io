@@ -1,1 +1,1 @@
-This represents my dev portfolio
+This represents my dev portfolio site. 
